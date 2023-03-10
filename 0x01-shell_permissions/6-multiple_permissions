@@ -1,1 +1,2 @@
 #!/bin/bash
+chmod go=Ix hello
